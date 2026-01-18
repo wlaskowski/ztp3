@@ -44,7 +44,8 @@ Projekt posiada wersjonowanie (release) oraz skonfigurowane uruchamianie testów
 
 ### Podział pracy
 - Wojtek Laskowski: odpowiedzialny za przygotowanie repozytorium, modyfikację rozwiązania *Małego Projektu 1* do wersji projektowej z zastosowaniem uwag oraz fork repozytorium grupy 1, dodanie kodu generującego wykres z liczbą dni z przekroczeniem normy PM2.5 zgrupowany po województwach i pull request
-- Karolina Winczewska: odpowiedzialna za przygotowanie testów, dokumentacji, zrobienie release’u, skonfigurowane uruchamianie testów po dodaniu nowego kodu (CI)
+
+- Karolina Winczewska: odpowiedzialna za przygotowanie testów, dokumentacji, zrobienie release’u, skonfigurowane uruchamianie testów po dodaniu nowego kodu (CI), udział w dyskusji między zespołami oraz rewizję kodu innej grupy
  
 
 
